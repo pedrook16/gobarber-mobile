@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>6C096FEF-177F-4D3A-AE68-DFD056E07849</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6C096FEF-177F-4D3A-AE68-DFD056E07849.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>mobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>mobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace mobile with scheme mobile and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>596209737.73226202</real>
+			<key>timeStoppedRecording</key>
+			<real>596209937.95057404</real>
+			<key>title</key>
+			<string>Building workspace mobile with scheme mobile and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>6C096FEF-177F-4D3A-AE68-DFD056E07849</string>
+		</dict>
+		<key>8D88C96C-95A3-4D8F-968A-C8DB93726DF4</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8D88C96C-95A3-4D8F-968A-C8DB93726DF4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>mobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>mobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace mobile with scheme mobile and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>596212949.02436101</real>
+			<key>timeStoppedRecording</key>
+			<real>596212982.74965894</real>
+			<key>title</key>
+			<string>Building workspace mobile with scheme mobile and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>8D88C96C-95A3-4D8F-968A-C8DB93726DF4</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

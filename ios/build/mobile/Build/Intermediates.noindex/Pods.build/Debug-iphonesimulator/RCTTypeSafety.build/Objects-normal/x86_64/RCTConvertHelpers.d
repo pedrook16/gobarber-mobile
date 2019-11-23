@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/pedrohenrique/Desktop/git/gobarber-mobile/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
+  /Users/pedrohenrique/Desktop/git/gobarber-mobile/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
+  /Users/pedrohenrique/Desktop/git/gobarber-mobile/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
+  /Users/pedrohenrique/Desktop/git/gobarber-mobile/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/pedrohenrique/Desktop/git/gobarber-mobile/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/pedrohenrique/Desktop/git/gobarber-mobile/ios/Pods/Folly/folly/Optional.h \
+  /Users/pedrohenrique/Desktop/git/gobarber-mobile/ios/Pods/Folly/folly/Portability.h \
+  /Users/pedrohenrique/Desktop/git/gobarber-mobile/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/pedrohenrique/Desktop/git/gobarber-mobile/ios/Pods/Folly/folly/CPortability.h \
+  /Users/pedrohenrique/Desktop/git/gobarber-mobile/ios/Pods/Folly/folly/Traits.h \
+  /Users/pedrohenrique/Desktop/git/gobarber-mobile/ios/Pods/Folly/folly/Utility.h \
+  /Users/pedrohenrique/Desktop/git/gobarber-mobile/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/pedrohenrique/Desktop/git/gobarber-mobile/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/pedrohenrique/Desktop/git/gobarber-mobile/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/pedrohenrique/Desktop/git/gobarber-mobile/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/pedrohenrique/Desktop/git/gobarber-mobile/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/pedrohenrique/Desktop/git/gobarber-mobile/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/pedrohenrique/Desktop/git/gobarber-mobile/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/pedrohenrique/Desktop/git/gobarber-mobile/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/pedrohenrique/Desktop/git/gobarber-mobile/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/pedrohenrique/Desktop/git/gobarber-mobile/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/pedrohenrique/Desktop/git/gobarber-mobile/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/pedrohenrique/Desktop/git/gobarber-mobile/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/pedrohenrique/Desktop/git/gobarber-mobile/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/pedrohenrique/Desktop/git/gobarber-mobile/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/pedrohenrique/Desktop/git/gobarber-mobile/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/pedrohenrique/Desktop/git/gobarber-mobile/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/pedrohenrique/Desktop/git/gobarber-mobile/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h

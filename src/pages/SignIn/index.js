@@ -1,4 +1,5 @@
 import React, { useRef } from 'react';
+import PropTypes from 'prop-types';
 import { Image } from 'react-native';
 
 import logo from '~/assets/logo.png';
@@ -17,6 +18,8 @@ import {
 export default function SignIn({ navigation }) {
   const passwordRef = useRef();
 
+  function handleSubmit() {}
+
   return (
     <Background>
       <Container>
@@ -30,15 +33,18 @@ export default function SignIn({ navigation }) {
             autoCapitalize="none"
             placeholder="Digite seu e-email"
             returnKeyType="next"
+            onSubmitEditing={() => passwordRef.current.focus()}
           />
           <FormInput
             icon="lock-outline"
             secureTextEntry
             placeholder="Digite sua senha"
             ref={passwordRef}
+            returnKeyType="next"
+            onSubmitEditing={handleSubmit}
           />
 
-          <SubmitButton>Acessar</SubmitButton>
+          <SubmitButton onPress={handleSubmit}>Acessar</SubmitButton>
         </Form>
 
         <SignLink onPress={() => navigation.navigate('SignUp')}>
@@ -48,3 +54,7 @@ export default function SignIn({ navigation }) {
     </Background>
   );
 }
+
+SignIn.propTypes = {
+  navigation: PropTypes.element.isRequired,
+};

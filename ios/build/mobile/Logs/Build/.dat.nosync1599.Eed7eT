@@ -40,6 +40,40 @@
 			<key>uniqueIdentifier</key>
 			<string>2AC2746C-4874-46A1-8697-73F7224FF86C</string>
 		</dict>
+		<key>AF74D275-9624-40BE-B937-3FC40EBCD4C8</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AF74D275-9624-40BE-B937-3FC40EBCD4C8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>mobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>mobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace mobile with scheme mobile and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>596324554.07118106</real>
+			<key>timeStoppedRecording</key>
+			<real>596324559.79204094</real>
+			<key>title</key>
+			<string>Building workspace mobile with scheme mobile and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>AF74D275-9624-40BE-B937-3FC40EBCD4C8</string>
+		</dict>
 	</dict>
 </dict>
 </plist>

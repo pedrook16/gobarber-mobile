@@ -17,7 +17,7 @@ export function* signIn({ payload }) {
     const { token, user } = response.data;
 
     if (user.provider) {
-     return Alert.alert(
+      Alert.alert(
         'Erro no login',
         'O usuário não pode ser prestador de servições'
       );
@@ -29,7 +29,6 @@ export function* signIn({ payload }) {
 
     // history.push('/dashboard');
   } catch (err) {
-    console.tron.log(err);
     Alert.alert('Falha na autenticação', 'Erro no login, verifique seus dados');
     yield put(signFailure());
   }

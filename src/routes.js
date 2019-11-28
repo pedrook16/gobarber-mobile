@@ -23,16 +23,20 @@ export default (isSigned = false) =>
           {
             Dashboard,
             New: {
-              screen: createStackNavigator({
-                SelectProvider,
-                SelectDateTime,
-                Confirm,
-
-              }, {defaultNavigationOptions: {
-                headerTransparent:true,
-                headerTintColor: '#FFF',
-                headerLeftContainerStyle: {marginLeft: 20}
-              }}),
+              screen: createStackNavigator(
+                {
+                  SelectProvider,
+                  SelectDateTime,
+                  Confirm,
+                },
+                {
+                  defaultNavigationOptions: {
+                    headerTransparent: true,
+                    headerTintColor: '#FFF',
+                    headerLeftContainerStyle: { marginLeft: 20 },
+                  },
+                }
+              ),
               navigationOptions: {
                 tabBarVisible: false,
                 tabBarLabel: 'Agendamentos',

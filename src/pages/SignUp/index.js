@@ -83,7 +83,3 @@ export default function SignUp({ navigation }) {
     </Background>
   );
 }
-
-SignUp.propTypes = {
-  navigation: PropTypes.element.isRequired,
-};

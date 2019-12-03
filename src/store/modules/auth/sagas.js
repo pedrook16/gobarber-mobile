@@ -43,7 +43,7 @@ export function* signUp({ payload }) {
       password,
     });
 
-    // history.push('/');
+    Alert.alert('Cadastro', 'Cadastro realizado com sucesso.');
   } catch (err) {
     Alert.alert(
       'Falha no cadastro',

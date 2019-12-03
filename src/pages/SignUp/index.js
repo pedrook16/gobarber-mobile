@@ -30,6 +30,9 @@ export default function SignUp({ navigation }) {
 
   function handleSubmit() {
     dispach(signUpRequest(name, email, password));
+    setName('');
+    setEmail('');
+    setPassword('');
   }
 
   return (
